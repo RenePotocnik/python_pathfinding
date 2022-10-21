@@ -3,7 +3,7 @@ import os
 import sys
 import time
 from collections import deque
-from typing import Tuple, List, Dict, Optional, Deque, Iterable, Union
+from typing import Tuple, List, Dict, Optional, Deque, Union
 
 import pygame
 
